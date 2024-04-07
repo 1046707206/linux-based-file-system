@@ -1,0 +1,3 @@
+/home/wyx08/file_system/CMakeFiles/file_system.dir
+/home/wyx08/file_system/CMakeFiles/edit_cache.dir
+/home/wyx08/file_system/CMakeFiles/rebuild_cache.dir
